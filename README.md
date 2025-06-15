@@ -1,6 +1,7 @@
 ## Hi there 👋
 
 - 🌱 I'm currently studying CS and Mathematics at Sun Yat-sen University.
-- ✨ I'm dedicated to investigating the theory and application of Machine Learning and am enthusiastic about the full spectrum of Generative AI, currently concentrating on Generative Models.
+- ✨ I'm driven to delve into the 'how' and 'why' of Machine Learning and its real-world impact.
+- ⚡ I'm fascinated by the full spectrum of Generative AI, and my current focus is on Generative Models.
 - 📫 Here's my personal website: liuwj003.github.io
 
